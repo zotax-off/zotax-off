@@ -8,7 +8,7 @@
 [![](https://img.shields.io/badge/JavaScript-ead41c?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/zotax-off/zotax-off/)
 [![](https://img.shields.io/badge/Php-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/zotax-off/zotax-off/)
 
-https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg
+![](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 
 J'apprends...
